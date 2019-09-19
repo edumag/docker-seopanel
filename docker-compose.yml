@@ -19,6 +19,6 @@ seopanel:
     DB_NAME: "seopanel"
     DB_USER: "root"
     DB_PASSWORD: "testpw"
-    SP_INSTALLED: "true"
+    SP_INSTALLED: "false"
   tty: true
   stdin_open: true
