@@ -1,5 +1,5 @@
 FROM php:7.0-apache
-MAINTAINER mike@odania-it.com
+MAINTAINER edu@lesolivex.com
 
 RUN apt-get update \
 	&& apt-get install -y --no-install-recommends unzip libpng-dev cron supervisor \
